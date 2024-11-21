@@ -51,8 +51,10 @@
 2. Перепишите сборку из задания 1 на declarative в виде кода.
 
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+При необходимости прикрепитe сюда скриншоты
+
+![image](https://github.com/user-attachments/assets/47c4e33e-c967-475c-9137-dbbbec726d12)
+![image](https://github.com/user-attachments/assets/949e0af4-e57b-4fee-9d1d-d2ce73c92d92)
 
 
 ---
