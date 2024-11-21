@@ -54,7 +54,9 @@
 При необходимости прикрепитe сюда скриншоты
 
 ![image](https://github.com/user-attachments/assets/47c4e33e-c967-475c-9137-dbbbec726d12)
-![image](https://github.com/user-attachments/assets/949e0af4-e57b-4fee-9d1d-d2ce73c92d92)
+![image](https://github.com/user-attachments/assets/7cdaf6b4-6234-4292-ac9d-ee4a9fdb50d9)
+![image](https://github.com/user-attachments/assets/14d2835b-7267-4d82-82d0-a77f39087cc8)
+
 
 
 ---
