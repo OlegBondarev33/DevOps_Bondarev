@@ -34,12 +34,13 @@
 
 При необходимости прикрепитe сюда скриншоты
 
-
-![image](https://github.com/user-attachments/assets/5cc82a3e-57c6-4919-b392-c4d059ae9081)
+![image](https://github.com/user-attachments/assets/d2346da5-b916-4c3c-b6a0-0dd40eff859c)
+![image](https://github.com/user-attachments/assets/5de52de6-1a24-4074-a3c0-b6ccef2ede63)
 ![image](https://github.com/user-attachments/assets/223b6a5a-6b68-4613-984b-28468e07f97b)
 ![image](https://github.com/user-attachments/assets/96a6e150-d745-4ebe-b90b-d63027a0062c)
-![image](https://github.com/user-attachments/assets/ff9dc7a5-03d1-4ed2-841f-6350eb375efd)
-![image](https://github.com/user-attachments/assets/704872c8-2f56-457a-b0d1-06d6ad3b57fc)
+![image](https://github.com/user-attachments/assets/a33c1d2c-0d0c-4c81-bea5-180c17e893cc)
+![image](https://github.com/user-attachments/assets/9d2b7f02-5afb-4db5-8a75-9d2923702b57)
+
 
 ---
 
@@ -71,6 +72,9 @@
 4. Загрузите файл в репозиторий с помощью jenkins.
 
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+При необходимости прикрепитe сюда скриншоты
+
+![image](https://github.com/user-attachments/assets/0cdc3621-5b81-4f3a-af16-4412f38f54e4)
+![image](https://github.com/user-attachments/assets/cc6b32c4-ff4c-4deb-9942-235d3fd2ed9b)
+
 
